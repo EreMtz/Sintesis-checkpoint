@@ -1,0 +1,39 @@
+.container-header{
+    display: flex;
+    height: 100px ;
+    width: 100% ;
+    background-color:darkcyan ;
+}
+
+.barnav-container{
+    display: flex;
+    height: 50px ;
+    width: 100% ;
+    background-color: cornflowerblue;
+    align-content: flex-end;
+ 
+}
+
+.container-main {
+    display: flex;
+    height: 1500px ;
+    width: 100% ;
+    background-color:rgb(176, 210, 212) ;
+    padding: 20px;
+}
+
+.container-section{
+    display: flex;
+    height: 1500px ;
+    width: 100% ;
+    background-color: blanchedalmond ;
+}
+
+.container-footer {
+
+    display: flex;
+    height: 150px ;
+    width: 100% ;
+    background-color:rgb(111, 168, 233) ;
+
+}
